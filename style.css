@@ -1,0 +1,17 @@
+.box
+{
+	float: right;
+    padding: 20px;
+    margin: 20px;
+	border-radius: 13em/3em;
+}
+
+#button
+{
+	width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #e350b8;
+    color: white;
+    border: none;
+}
